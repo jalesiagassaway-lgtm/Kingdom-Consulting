@@ -22,7 +22,7 @@ export const Home: React.FC<HomeProps> = ({ setPage }) => {
         </div>
 
         <div className="relative z-10 max-w-7xl mx-auto px-4 text-center">
-          <span className="text-[#CE1141] font-black tracking-[0.2em] uppercase mb-4 block">Founded 2025</span>
+          <span className="text-[#CE1141] font-black tracking-[0.2em] uppercase mb-4 block">Established 2025</span>
           <h1 className="text-5xl md:text-8xl font-black mb-6 leading-tight">
             BUILD IT RIGHT.<br />
             OWN IT FULLY.<br />

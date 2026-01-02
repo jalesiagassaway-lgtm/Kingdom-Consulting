@@ -34,7 +34,7 @@ export const About: React.FC<AboutProps> = ({ setPage }) => {
                 alt="Black professionals collaborating in a modern office environment"
               />
               <div className="absolute -bottom-8 -left-8 bg-zinc-900 p-8 border border-zinc-800 hidden md:block shadow-xl">
-                <p className="text-4xl font-black text-[#CE1141]">FOUNDED 2025</p>
+                <p className="text-4xl font-black text-[#CE1141]">ESTABLISHED 2025</p>
                 <p className="text-white uppercase font-bold tracking-widest text-xs">A New Era of Business</p>
               </div>
             </div>
